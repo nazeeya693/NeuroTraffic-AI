@@ -3,7 +3,8 @@ pandas
 numpy
 scikit-learn
 matplotlib
-opencv-python
+opencv-python-headless
 ultralytics
 folium
 streamlit-folium
+pillow
