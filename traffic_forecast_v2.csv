@@ -1,0 +1,51 @@
+﻿hour,day,weather,event,traffic level
+8,Monday,Rainy,School,High
+9,Monday,Rainy,School,High
+10,Monday,Sunny,School,Medium
+11,Monday,Sunny,Normal,Medium
+13,Monday,Sunny,Normal,Low
+18,Monday,Rainy,Office Rush,High
+20,Monday,Cloudy,Normal,Medium
+8,Tuesday,Rainy,School,High
+9,Tuesday,Sunny,School,Medium
+10,Tuesday,Sunny,Normal,Medium
+14,Tuesday,Sunny,Normal,Low
+18,Tuesday,Rainy,Office Rush,High
+8,Wednesday,Rainy,School,High
+9,Wednesday,Cloudy,School,High
+12,Wednesday,Sunny,Normal,Low
+17,Wednesday,Rainy,Office Rush,High
+20,Wednesday,Sunny,Normal,Medium
+8,Thursday,Rainy,School,High
+10,Thursday,Sunny,Normal,Medium
+13,Thursday,Sunny,Normal,Low
+18,Thursday,Rainy,Office Rush,High
+8,Friday,Rainy,School,High
+9,Friday,Rainy,School,High
+18,Friday,Rainy,Festival,High
+19,Friday,Rainy,Festival,High
+20,Friday,Cloudy,Festival,High
+9,Saturday,Sunny,Shopping,Medium
+14,Saturday,Sunny,Shopping,Medium
+18,Saturday,Cloudy,Shopping,Medium
+10,Sunday,Sunny,Normal,Low
+7,Monday,Rainy,School,High
+7,Tuesday,Rainy,School,High
+7,Wednesday,Rainy,School,High
+7,Thursday,Rainy,School,High
+7,Friday,Rainy,School,High
+15,Monday,Sunny,Normal,Low
+15,Tuesday,Sunny,Normal,Low
+15,Wednesday,Sunny,Normal,Low
+15,Thursday,Sunny,Normal,Low
+15,Friday,Sunny,Normal,Low
+18,Monday,Cloudy,Office Rush,High
+18,Tuesday,Cloudy,Office Rush,High
+18,Wednesday,Cloudy,Office Rush,High
+18,Thursday,Cloudy,Office Rush,High
+18,Friday,Cloudy,Office Rush,High
+12,Saturday,Sunny,Shopping,Medium
+13,Saturday,Sunny,Shopping,Medium
+15,Saturday,Sunny,Shopping,Medium
+12,Sunday,Sunny,Normal,Low
+16,Sunday,Sunny,Normal,Low
